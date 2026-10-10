@@ -1,0 +1,86 @@
+{
+  "tool": "Built-in image_gen",
+  "sourceDirectory": "C:/Users/komal mane/.codex/generated_images/01a0f8ea-22a8-7a91-9618-393501a9df8b",
+  "images": [
+    {
+      "key": "beautician",
+      "source": "exec-a3676ec6-38a6-4382-9dec-a82ab7e60fac.png",
+      "output": "public/images/salon/beautician-v2.jpg"
+    },
+    {
+      "key": "salon",
+      "source": "exec-e9648b14-eb80-429c-b139-7cece701b5f9.png",
+      "output": "public/images/salon/salon-v2.jpg"
+    },
+    {
+      "key": "hair",
+      "source": "exec-488399f6-892f-4e99-8807-9ccbe38083a4.png",
+      "output": "public/images/salon/hair-v2.jpg"
+    },
+    {
+      "key": "skin",
+      "source": "exec-cefe2186-34ab-48da-810c-d16c107a34e4.png",
+      "output": "public/images/salon/skin-v2.jpg"
+    },
+    {
+      "key": "bridal",
+      "source": "exec-daf17a01-20fe-437c-8ded-1911b9430e4d.png",
+      "output": "public/images/salon/bridal-v2.jpg"
+    },
+    {
+      "key": "nails",
+      "source": "exec-3942193e-ebf8-46da-bde7-52152cb491c2.png",
+      "output": "public/images/salon/nails-v2.jpg"
+    },
+    {
+      "key": "academy",
+      "source": "exec-dddc93fc-1223-4a82-b13c-8394bdac6ebc.png",
+      "output": "public/images/salon/academy-v2.jpg"
+    },
+    {
+      "key": "brows",
+      "source": "exec-b7fd54cd-9c19-4e6c-93fe-1b7aee351dcd.png",
+      "output": "public/images/salon/brows-v2.jpg"
+    },
+    {
+      "key": "products",
+      "source": "exec-e6a1b20a-e1bc-429f-89b7-5bcfaa24f70d.png",
+      "output": "public/images/salon/products-v2.jpg"
+    },
+    {
+      "key": "consultation",
+      "source": "exec-19bb1b1c-0e5e-46a8-9a32-8c165ea996d8.png",
+      "output": "public/images/salon/consultation-v2.jpg"
+    },
+    {
+      "key": "laser",
+      "source": "exec-092c28fc-6efb-4089-9611-8eabd40b8767.png",
+      "output": "public/images/salon/laser-v2.jpg"
+    },
+    {
+      "key": "ear",
+      "source": "exec-0ea3a109-f6ac-4db8-8419-3bd6f33b8017.png",
+      "output": "public/images/salon/ear-v2.jpg"
+    },
+    {
+      "key": "hydra",
+      "source": "exec-6569852e-dc2c-4cce-90d1-fb2112c9c12c.png",
+      "output": "public/images/salon/hydra-v2.jpg"
+    },
+    {
+      "key": "lice",
+      "source": "exec-d1dadbb4-7b9e-4005-be50-99a54b9cabd0.png",
+      "output": "public/images/salon/lice-v2.jpg"
+    },
+    {
+      "key": "glass",
+      "source": "exec-283e651e-19e1-45c7-b31c-7b068366fc5c.png",
+      "output": "public/images/salon/glass-v2.jpg"
+    },
+    {
+      "key": "tattoo",
+      "source": "exec-63386ae5-e671-4dd6-8695-55f780388382.png",
+      "output": "public/images/salon/tattoo-v2.jpg"
+    }
+  ]
+}

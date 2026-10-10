@@ -1,0 +1,30 @@
+{
+  "tool": "Built-in image_gen",
+  "images": [
+    {
+      "key": "laser",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a0f8c0-e080-7663-bc72-926791de36d5\\exec-5f21b16d-b1e2-4035-8ab0-4fbbb8dc6133.png",
+      "prompt": "Use case: photorealistic-natural. Asset: landscape 3:2 beauty salon website photograph. A professional female clinician holding a laser hair removal handpiece against the lower leg of an adult woman lying on an ivory treatment bed, focus on gloved hands and device and lower leg only. Premium editorial photography, cream blush burgundy and gold palette, soft natural light, realistic anatomy and professional equipment, no text, no logos, no watermark, no collage. Illustrative marketing image."
+    },
+    {
+      "key": "tattoo",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a0f8c0-e080-7663-bc72-926791de36d5\\exec-0de46967-fc8b-4121-95df-5ff583485b6b.png",
+      "prompt": "Use case: photorealistic-natural. Asset: landscape 3:2 beauty salon website photograph. Close-up of a consultation about tattoo removal, a female clinician in clean gloves examining a small black floral tattoo on an adult woman's forearm, elegant clean treatment room, no injuries, no before and after. Premium editorial photography, cream blush burgundy and gold palette, soft natural light, realistic anatomy and professional equipment, no text, no logos, no watermark, no collage. Illustrative marketing image."
+    },
+    {
+      "key": "ear",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a0f8c0-e080-7663-bc72-926791de36d5\\exec-80d39674-8c5a-4833-81d9-511e66695df7.png",
+      "prompt": "Use case: photorealistic-natural. Asset: landscape 3:2 beauty salon website photograph. Tasteful close-up of a female clinician with gloved hands gently examining the earlobe of an adult Indian woman during an ear care consultation, ear and partial side profile, no instruments piercing skin, no injuries. Premium editorial photography, cream blush burgundy and gold palette, soft natural light, realistic anatomy and professional equipment, no text, no logos, no watermark, no collage. Illustrative marketing image."
+    },
+    {
+      "key": "hydra",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a0f8c0-e080-7663-bc72-926791de36d5\\exec-ef34194e-52cc-4284-a5ed-5419176ecd79.png",
+      "prompt": "Use case: photorealistic-natural. Asset: landscape 3:2 beauty salon website photograph. Close-up of an adult Indian woman receiving a hydrating facial using a professional transparent suction-tip facial handpiece on her cheek, ivory towel headband, esthetician's gloved hand, eyes closed. Premium editorial photography, cream blush burgundy and gold palette, soft natural light, realistic anatomy and professional equipment, no text, no logos, no watermark, no collage. Illustrative marketing image."
+    },
+    {
+      "key": "lice",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a0f8c0-e080-7663-bc72-926791de36d5\\exec-e68b3f78-597f-40e0-99a1-fb04a7de0885.png",
+      "prompt": "Use case: photorealistic-natural. Asset: landscape 3:2 beauty salon website photograph. Close-up of a female hair care professional using a fine-toothed lice comb to carefully section and comb an adult Indian woman's dark hair near the scalp, tidy hygienic salon, focus on comb and gloved hands, no insects visible. Premium editorial photography, cream blush burgundy and gold palette, soft natural light, realistic anatomy and professional equipment, no text, no logos, no watermark, no collage. Illustrative marketing image."
+    }
+  ]
+}

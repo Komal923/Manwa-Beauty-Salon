@@ -1,0 +1,6 @@
+{
+  "tool": "Built-in image_gen",
+  "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a0f8c0-e080-7663-bc72-926791de36d5\\exec-2aab8de4-6406-461f-88b5-ad4bdc1120eb.png",
+  "prompt": "Edit the uploaded reference photo into a professional beauty salon portrait for the Manwa website. Preserve the woman's recognizable identity and facial features from the reference: same face shape, eyes, nose, smile, skin tone, dark updo hairstyle and bindi. Keep her purple/magenta traditional outfit and jewelry, refined and authentic. Depict this same adult woman as a professional beautician standing in an elegant cream, blush and burgundy salon with gold mirrors, gently holding a small set of makeup brushes at waist level. Warm approachable expression, natural skin texture, realistic anatomy. Waist-up editorial photograph, portrait composition with generous space around her head and shoulders for website crops. No text, no logo, no watermark. The provided small photo is the identity reference; do not replace her face with a different model.",
+  "destination": "public/images/salon/beautician.webp"
+}

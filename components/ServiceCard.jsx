@@ -1,0 +1,2 @@
+import Link from "next/link";import Photo from "./Photo";
+export default function ServiceCard({s,i}){return<article className="card sc rv"><div className="im"><Photo k={s.slug} label={s.title} icon={s.icon} i={i}/><span className="badge">{s.tag}</span></div><div className="tx"><h3>{s.title}</h3><p>{s.short}</p><Link className="more" href={`/services/${s.slug}`}>Explore Treatment →</Link></div></article>}

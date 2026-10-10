@@ -1,0 +1,67 @@
+﻿# Dependencies
+node_modules/
+.pnp.*
+# Build output and caches
+.next/
+.next-dev/
+out/
+dist/
+build/
+coverage/
+.cache/
+.turbo/
+.parcel-cache/
+*.tsbuildinfo
+.eslintcache
+# Local working files, browser profiles, and deployment state
+tmp/
+temp/
+.vercel/
+.netlify/
+.wrangler/
+.vscode/
+.idea/
+.codex/
+.agents/
+# Environment files (sanitized templates are allowed)
+.env
+.env.*
+!.env.example
+!.env.template
+!.env.sample
+# Credentials and private keys
+.aws/
+.ssh/
+.gnupg/
+.npmrc
+.netrc
+.git-credentials
+credentials/
+secrets/
+credentials*.json
+*service-account*.json
+*serviceAccount*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+id_rsa*
+id_ed25519*
+# Logs and diagnostic dumps
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+report.*.json
+*.heapsnapshot
+*.stackdump
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~

@@ -1,0 +1,131 @@
+{
+  "tool": "Built-in image_gen",
+  "images": [
+    {
+      "key": "haircut",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-338bc23f-2616-4983-a06e-7e66d97e9a47.png",
+      "output": "public/images/services/photos/haircut.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: An Indian adult woman seated in a refined salon, stylist's hands using professional scissors and a comb to trim a section of her dark hair, clearly recognizable haircut action.. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "hair-spa",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-4d3c892d-e972-4c5d-ad75-d8e8e64b7bcb.png",
+      "output": "public/images/services/photos/hair-spa.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Hair Spa: woman reclining at salon basin receiving scalp massage, damp hair. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "hair-colour",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-9c9d11ba-c8e8-47f6-b6c9-afa1c8a63242.png",
+      "output": "public/images/services/photos/hair-colour.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Hair Colour: gloved colourist painting hair with tint brush on foil. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "hair-smoothening",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-1ef4644c-d617-4c22-a8c7-fd4d84d061ee.png",
+      "output": "public/images/services/photos/hair-smoothening.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Hair Smoothening: stylist passing flat iron over long dark hair. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "hair-treatments",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-cf9f08f3-6ea3-4526-9797-6c29da22f365.png",
+      "output": "public/images/services/photos/hair-treatments.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Hair Treatments: stylist applying conditioning cream to lengths of damp hair. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "hair-fall-care",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-4239c22e-b54f-4095-b55f-b92cb0fc1218.png",
+      "output": "public/images/services/photos/hair-fall-care.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Hair Fall Care: professional applying scalp serum with glass dropper to parted hair roots. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "dandruff-care",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-7e62072c-c06d-43c2-9b1e-154f6c856e8f.png",
+      "output": "public/images/services/photos/dandruff-care.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Dandruff Care: gloved professional examining parted dark hair and scalp with handheld magnifier. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "cleanup",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-fb4fc992-8e21-41b1-bacb-128bba890b82.png",
+      "output": "public/images/services/photos/cleanup.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Facial Cleanup: beautician cleansing woman's cheeks with two cotton pads, white headband. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "skin-brightening",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-d3dd24a0-c7cd-4cf9-a29c-b0598056a2f2.png",
+      "output": "public/images/services/photos/skin-brightening.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Skin Brightening: facialist applying serum with glass dropper to cheek, natural brown skin, no whitening. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "de-tan",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-d64a0e30-8bdc-4b3e-9109-604c1ccb129f.png",
+      "output": "public/images/services/photos/de-tan.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: De-Tan: beautician applying creamy clay treatment to woman's forearm with broad spa brush. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "anti-ageing-facial",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-95ab356c-1562-4cc7-af8e-862445a67aeb.png",
+      "output": "public/images/services/photos/anti-ageing-facial.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Anti-Ageing Facial: mature Indian woman in her fifties receiving gentle lifting facial massage, natural fine lines. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "threading",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-3e5fc8ad-ad0b-44af-bbd4-9846d9d92c2e.png",
+      "output": "public/images/services/photos/threading.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Threading: beautician's hands holding taut twisted cotton thread at woman's eyebrow to shape it. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "waxing",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-4e8c76f5-c3e9-444f-b01a-dbe2ede5374b.png",
+      "output": "public/images/services/photos/waxing.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Waxing: gloved beautician applying golden wax with wooden spatula to woman's lower leg. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "pedicure",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-d1ddfd5f-31a3-4e79-afd8-87630050a620.png",
+      "output": "public/images/services/photos/pedicure.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Pedicure: professional applying muted rose polish to toenails, foot supported on white towel. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "eyebrow-services",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-5843f32f-64ff-44eb-b50f-e9a4d40de70d.png",
+      "output": "public/images/services/photos/eyebrow-services.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Eyebrow Services: beautician using spoolie brush to groom woman's full natural eyebrow. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "eyelash-services",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-faefc262-b1a6-4ab7-9c5d-19179321583a.png",
+      "output": "public/images/services/photos/eyelash-services.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Eyelash Services: lash artist using fine tweezers to apply lashes, client eyes closed, under-eye pads. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "extra-skin-removal",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-93b16b3d-c3a8-4795-ad42-f97e447502dd.png",
+      "output": "public/images/services/photos/extra-skin-removal.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Extra Skin Removal consultation: gloved practitioner examining tiny skin tag on woman's neck with handheld dermatoscope, fully clothed, no cutting or blood. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "party-makeup",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-617fe94e-61a9-4541-9d99-6db8717ae288.png",
+      "output": "public/images/services/photos/party-makeup.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Party Makeup: woman in modern black evening outfit, smoky eyes and berry lips, artist applying blush, no bridal jewellery. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "engagement-makeup",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-096261a1-04ff-466d-9638-047cef4faed4.png",
+      "output": "public/images/services/photos/engagement-makeup.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Engagement Makeup: woman in pastel peach outfit with delicate earrings, romantic pink makeup, artist applying lipstick, no bridal veil. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "reception-makeup",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-b94f8e98-0630-4b47-b2ea-9cb246076500.png",
+      "output": "public/images/services/photos/reception-makeup.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Reception Makeup: woman in emerald evening saree, glamorous gold eye makeup, sleek updo, artist applying powder. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    },
+    {
+      "key": "pre-bridal-services",
+      "source": "C:\\Users\\komal mane\\.codex\\generated_images\\01a11bfb-0105-7ba2-8a9f-9c102c0462c4\\exec-d64b4c60-917b-470c-a30e-67ebbc596f4b.png",
+      "output": "public/images/services/photos/pre-bridal-services.jpg",
+      "prompt": "Create one photorealistic editorial photograph for an Indian beauty salon website service card. Adult Indian female client. Subject: Pre-Bridal Services: bride-to-be in modest spa robe receiving shoulder massage, jasmine flowers and folded towels. Landscape 3:2, centered treatment action with crop room, warm cream salon with subtle burgundy accents, soft natural light, realistic hands and tools. Clearly illustrate this specific service. No text, logos, watermark, collage or before-after."
+    }
+  ]
+}
